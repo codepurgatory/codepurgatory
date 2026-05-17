@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**codepurgatory/codepurgatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivan.
+I'm a software developer.
+I work as a software engineer.
+I'm also a systems analyst.
 
-Here are some ideas to get you started:
+<details><summary><strong>Programming</strong></summary><div>
+  
+### Main Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Section|Name|Status|Use Level|About|
+|---|---|---|---|---|
+|Workstation OS|Windows|USE|Middle|https://www.microsoft.com/en-us/download/windows|
+|Server OS|Linux - Ubuntu|USE|Middle|https://ubuntu.com/download/server|
+|Envinronment|Deamon(Services)|USE|Middle|https://manpages.ubuntu.com/manpages/jammy/man1/systemctl.1.html|
+|Envinronment|Docker(Compose)|USE|Middle|https://docs.docker.com/compose/|
+|Platform|.dotnet(.NetCore)|USE|Middle|https://dotnet.microsoft.com/|
+|Platform|Blazor|USE|Middle|https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor|
+|Framework|MudBlazor|USE|Middle|https://mudblazor.com/|
+</div></details>
