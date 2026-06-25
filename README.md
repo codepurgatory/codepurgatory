@@ -1,9 +1,14 @@
-## Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+<p align="center">Website • X • LinkedIn • YouTube • TikTok</p>
+
+---
 
 My name is Ivan.
 I'm a software developer.
 I work as a software engineer.
 I'm also a systems analyst.
+
+---
 
 <details><summary><strong>Programming</strong></summary><div>
   
