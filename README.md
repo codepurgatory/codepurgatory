@@ -12,8 +12,6 @@ I'm also a systems analyst.
 
 <details><summary><strong>Programming</strong></summary><div>
 
-### Statistics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codepurgatory&theme=github_dark" alt="Codepurgatory's GitHub Stats"/>
   
 ### Main Stack
 
