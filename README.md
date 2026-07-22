@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋</h3>
-<p align="center"><a href="https://plexuslab.net/">Website</a> • <a href="https://x.com/Codepurgatory">X</a> • <a href="www.linkedin.com/in/codepurgatory">LinkedIn</a> • <a href="https://www.youtube.com/@codepurgatory">YouTube</a> • <a href="https://tiktok.com/@codepurgatory">TikTok</a></p>
+<p align="center"><a href="https://plexuslab.net/">Website</a> • <a href="https://x.com/Codepurgatory">X</a> • <a href="https://www.linkedin.com/in/codepurgatory">LinkedIn</a> • <a href="https://www.youtube.com/@codepurgatory">YouTube</a> • <a href="https://tiktok.com/@codepurgatory">TikTok</a></p>
 
 ---
 
